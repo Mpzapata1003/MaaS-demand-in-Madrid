@@ -1,1 +1,2 @@
-Soluciòn al problema de kaggles Objetivo de la competición Se te proporciona información histórica sobre los viajes realizados en e-motos en Madrid durante el período de enero a septiembre de 2022. El objetivo es desarrollar un modelo que prediga, con la mayor precisión posible, el número de viajes por clúster durante el resto de 2022 (octubre-diciembre). Para ellos nos han proporcionado 2 archivos
+
+
